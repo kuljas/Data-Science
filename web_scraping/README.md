@@ -1,1 +1,1 @@
-Idea is to scrape internet and create NBA data.
+Idea is to scrape data from the internet and create NBA data.
